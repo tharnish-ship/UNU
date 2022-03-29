@@ -8,7 +8,7 @@ var cards = [
 {name:"Green 4"},
 {name:"Red 1"},
 {name:"Red 2"},
-name:"Green 3"},
+{name:"Green 3"},
 {name:"Green 1"},
 {name:"Red 2"},
 {name:"Green 4"},

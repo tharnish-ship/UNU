@@ -1,4 +1,4 @@
-import * as 'cards' from 'cards.js';
+import * as cards from './cards.js';
 let string = '';
 let playerCards = [];
 let CPUCards = [];
