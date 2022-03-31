@@ -1,4 +1,4 @@
-import * as 'cards' from 'cards.js';
+import * as cards from 'cards.js';
 let string = '';
 let playerCards = [];
 let CPUCards = [];
@@ -8,7 +8,8 @@ let randomDraw = Math.floor(Math.random() * cards.length);
 CPUCards.push(cards[randomDraw]);
 playerCards.push(cards[randomDraw+1]);
 }
-return CPUCards;
+console.log(CPUCards); // [undefined, undefined, undefined, ...];
+  return CPUCards;
 }
 function showCards(){
 let listOfPlayerCards = randomDraw();
