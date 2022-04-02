@@ -1,0 +1,20 @@
+{
+  "name": "unu",
+  "version": "1.0.0",
+  "description": "A card game developed by Toby Harnish. Nothing special, just want to practice my JS skill. Below you will find two files: tools.mjs and cards.js. Currently, these files are in development.",
+  "main": "tools.mjs",
+  "scripts": {
+    "play": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverlastingBugstopper/UNU.git"
+  },
+  "keywords": [],
+  "author": "Toby Harnish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tharnish-ship/UNU/issues"
+  },
+  "homepage": "https://github.com/tharnish-ship/UNU#readme"
+}
